@@ -42,4 +42,4 @@ public class ResultadoAcademico {
     {
         return notas;
     }
-}   
+}
