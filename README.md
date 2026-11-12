@@ -2,6 +2,8 @@
 # PromedioSieteNotasOracle19c:
 
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/176702a7-22ee-4474-be3d-f8acb113d999" />  
+
+<img width="2551" height="1075" alt="image" src="https://github.com/user-attachments/assets/5d4d058b-4400-4662-8533-6f23985830fe" />  
   
 ## Sistema de cálculo del promedio de siete notas utilizando Java 21 y Oracle Database 19c
 
